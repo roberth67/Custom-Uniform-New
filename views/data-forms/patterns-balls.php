@@ -1,0 +1,10 @@
+<?php 
+if(isset($_GET["a"])){
+    //$pattern=$_GET["a"];
+    $design=$_GET["a"];
+    //$ballset=$_GET["b"];
+}else{
+    $design='1';
+    //$ballset='1';
+}
+?>

@@ -1,0 +1,18 @@
+img{
+    margin-top:30px;
+    max-width:250px;
+  }
+  
+  h3,h2,h1{
+    margin:50px;
+    color: black !important;
+  }
+  
+  .thankyou{
+    background-image: url("assets/img/thankyou-back.png");
+    background-size: contain, cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin:0;
+  }
+  
